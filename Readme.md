@@ -1,5 +1,5 @@
 # AI User Safety Application
-## Class: CMPE 295B Major Project
+## Class: CMPE 295B Sec 48 Major Project II
 ## University: San Jose State University 
 ## Advisor: Professor Vijay Eranti
 
