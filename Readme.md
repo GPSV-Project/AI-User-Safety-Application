@@ -13,7 +13,7 @@
 
 Phishing is a security vulnerability that aims to trick unsuspecting users by mixing social engineering and website spoofing techniques into stealing their sensitive details (e.g., password, bank, or financial details). A typical phishing attack's lifecycle begins with the receipt of a fake e-mail, SMS, or instant message from scammers trying to make users think and believe that it comes from a legitimate source. The messages typically use persuasive claims and a link pointing to a fake web page that mimics the legitimate web page of the target brand.
 
-![Application_Overview](/E-Images/Application_Overview.jpg)
+![Application_Overview](https://github.com/GPSV-Project/AI-User-Safety-Application/blob/master/E-%20Images/Application_Overview.jpg)
 
 Here in this project, we use an ensemble model of Char-CNN and YOLOv3 Object Detection for phishing detection and aim to create an AI agent which users can use to detect the current web page status. 
 
