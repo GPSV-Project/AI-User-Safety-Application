@@ -28,18 +28,18 @@ We are using an Ensemble model of YOLO and Char-CNN. Both the models are trained
 
 Below is the model Architecture
 
-![Model_Architecture](/E-Images/Model_Architecture.jpg)
+![Model_Architecture](https://github.com/GPSV-Project/AI-User-Safety-Application/blob/master/E-%20Images/Model_Architecture.jpg)
 
 
 #3. Model Performance
 
 Below is the Performance of YOLO Model
 
-![YOLO_Performance](/E-Images/YOLO_Model_Performance.jpg)
+![YOLO_Performance](https://github.com/GPSV-Project/AI-User-Safety-Application/blob/master/E-%20Images/YOLO_Model_Performance.jpg)
 
 Below is the performance of Char-CNN
 
-![Char-CNN_Performance](/E-Images/Char-CNN_Model_Performance.png)
+![Char-CNN_Performance](https://github.com/GPSV-Project/AI-User-Safety-Application/blob/master/E-%20Images/Char-CNN_Model_Performance.png)
 
 Key Points:
 
@@ -53,7 +53,7 @@ Below is the Application image after running SourceCode Application.
 
 Refer 10-Final Project Report for detailed installation instructions
 
-![GMV AI User Safety Application Chrome Plugin Screen Shot](/E-Images/GMV_AI_USER_Safety_Application.jpg)
+![GMV AI User Safety Application Chrome Plugin Screen Shot](https://github.com/GPSV-Project/AI-User-Safety-Application/blob/master/E-%20Images/GMV_AI_USER_Safety_Application.jpg)
 
 ##Conclusion:
 
