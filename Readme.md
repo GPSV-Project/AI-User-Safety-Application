@@ -22,7 +22,7 @@ Following are the key objectives that are achieved from the AI User Safety Appli
 *  Combining object detection techniques YOLOv3 with NLP (Natural Language Processing) using Char-CNN.
 *  Deploying an ensemble model on a web browser application framework optimized for performance and speed without compromising on CPU/GPU usage and memory footprint at runtime.
 
-#2. Model Architecture
+# 2. Model Architecture
 
 We are using an Ensemble model of YOLO and Char-CNN. Both the models are trained on Custom Dataset which can be seen in B-Dataset Folder above.
 
@@ -31,7 +31,7 @@ Below is the model Architecture
 ![Model_Architecture](https://github.com/GPSV-Project/AI-User-Safety-Application/blob/master/E-%20Images/Model_Architecture.jpg)
 
 
-#3. Model Performance
+# 3. Model Performance
 
 Below is the Performance of YOLO Model
 
@@ -47,7 +47,7 @@ Key Points:
 * The overall mAP score for the YOLO model is 90 (out of 100) and can accurately predict the objects as a logo. 
 * The ROC curve for the Char-CNN model is 97.5% which means the model is not overfitting
 
-#4. Final Application Screens:
+# 4. Final Application Screens:
 
 Below is the Application image after running SourceCode Application.
 
@@ -55,6 +55,6 @@ Refer 10-Final Project Report for detailed installation instructions
 
 ![GMV AI User Safety Application Chrome Plugin Screen Shot](https://github.com/GPSV-Project/AI-User-Safety-Application/blob/master/E-%20Images/GMV_AI_USER_Safety_Application.jpg)
 
-##Conclusion:
+## Conclusion:
 
 For full details and References refer Project report
