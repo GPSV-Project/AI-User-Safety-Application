@@ -1,0 +1,49 @@
+var result = valid
+
+if isphishingPhishTank == true:
+   result  = phish
+else  
+{
+    charCnnResult
+    YoloResult
+    if char cnn = phishing and yolo(score >= 0.7) == phishing
+    {
+        result = phishing
+    }
+    else if ((url in PhishTankDtabase and charcnn = phishing(0.7)) ) )
+    {
+        then result  = suspicious
+    }
+    else {
+        result = legitimate
+    }
+
+    
+}
+
+    charCnnResult
+    YoloResult
+    if (charCNNResult === "Phishing" && yolo confScore > 0.7) {
+        showMainResults("Phishing");
+    }
+    else if (yolo confScore > 0.7 and charCNNResult === "Legitimate") {
+        if (domain not in ['wellsfargo.com', 'amazon.com', 'facebook.com' and so on]
+            showMainResults("Suspicious");
+    }
+    else if (charCNNResult === "Phishing") {
+        showMainResults("Suspicious");
+    }
+    else {
+        showMainResults("Legitimate");
+    }
+
+
+
+
+
+
+
+
+
+
+
