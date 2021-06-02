@@ -51,7 +51,7 @@ Key Points:
 
 Below is the Application image after running SourceCode Application.
 
-Refer 10-Final Project Report for detailed installation instructions
+![Refer 10-Final Project Report for detailed installation instructions](https://github.com/GPSV-Project/AI-User-Safety-Application/blob/master/10-Final%20Report%20Submission/295B%20Final%20Report-Eranti_Vijay-01-AI%20User%20Safety%20Application.pdf)
 
 ![GMV AI User Safety Application Chrome Plugin Screen Shot](https://github.com/GPSV-Project/AI-User-Safety-Application/blob/master/E-%20Images/GMV_AI_USER_Safety_Application.jpg)
 
