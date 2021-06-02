@@ -57,4 +57,4 @@ Below is the Application image after running SourceCode Application.
 
 ## Conclusion:
 
-For full details and References refer Project report
+For full details and References refer [Project report](https://github.com/GPSV-Project/AI-User-Safety-Application/blob/master/10-Final%20Report%20Submission/295B%20Final%20Report-Eranti_Vijay-01-AI%20User%20Safety%20Application.pdf)
